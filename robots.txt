@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://indentivi.github.io/sitemap.html.gz
+Sitemap: https://indentivi.github.io/app/sitemap.html.gz
+Sitemap: https://indentivi.github.io/assets/sitemap.html.gz
+Sitemap: https://indentivi.github.io/css/sitemap.html.gz
+Sitemap: https://indentivi.github.io/includes/sitemap.html.gz
+Sitemap: https://indentivi.github.io/item/sitemap.html.gz
+Sitemap: https://indentivi.github.io/src/sitemap.html.gz
